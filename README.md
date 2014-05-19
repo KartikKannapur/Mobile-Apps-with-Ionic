@@ -23,6 +23,16 @@ Getting Started
 
 2. sudo npm install -g cordova ionic
 
+3. Create an Ionic project 
+
+	$ ionic start myApp tabs
+
+4. Running your Project :
+
+	$ cd myApp
+
+	$ ionic platform add ios
+
 Resources
 ======================
 
